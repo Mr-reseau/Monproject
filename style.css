@@ -1,0 +1,55 @@
+body {
+    background:#f25;
+width: 350px;
+
+ height: auto;
+
+ position: absolute;
+
+ left: 50%;
+
+ top: 50%;
+
+  transform: translate(-50%, -50%);
+
+ -webkit-transform: translate(-50%, -50%);
+
+}
+h1
+{
+ text-align: center ;
+ color: black ;
+ text-transform: capitalize;
+}
+h2
+{
+    color: rgb(54, 54, 54); 
+    text-align: left; 
+    font-size:1EM;
+
+}
+button
+{
+  background-color: blue;
+  width:115% ;
+  padding: 10px;
+}
+.contenant{
+  max-width: 300px;
+  margin: auto;
+  margin-top:1em;
+  background-color: azure;
+  text-align: center;
+   border-radius: 20px;
+   padding: 40px;
+   box-sizing: border-box;
+   padding-right: 5em;
+   margin:2em;
+}
+input{
+  width: 100%;
+  margin:10px,0 ;
+  outline: none;
+  padding: 10px;
+  
+}
